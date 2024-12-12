@@ -2,7 +2,7 @@
 /etc
 /include
 /lib
-/scripts
+/scripts/__pycache__
 /share
 pyvenv.cfg
 /stack-overflow-developer-survey-2024
